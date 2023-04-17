@@ -8,7 +8,8 @@
 <img align='right' src="https://media.giphy.com/media/5n01vBF47GbMV5nGhM/giphy.gif" width="230">
 
 ```javascript
-// This is an object where I describe what I am currently learning and goals during this year.
+/* This is an object where I describe what I am currently learning and goals 
+during this year.*/
 const christianBenitez = {
   code: {
     Javascript: ['nodeJs', 'react'],
